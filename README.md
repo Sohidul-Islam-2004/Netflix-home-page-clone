@@ -1,4 +1,4 @@
-<img width="1877" height="937" alt="image" src="https://github.com/user-attachments/assets/66c43a67-3b25-4af0-acd3-0acdffa5795b" /><img width="1872" height="939" alt="image" src="https://github.com/user-attachments/assets/ea4f7188-cf7d-4735-874a-de082f3f5309" /># 🎬 Netflix Homepage Clone
+# 🎬 Netflix Homepage Clone
 
 A responsive clone of the Netflix landing page built using **HTML5** and **CSS3**. This project recreates the modern UI of Netflix while practicing frontend development fundamentals.
 
