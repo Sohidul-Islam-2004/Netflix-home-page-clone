@@ -12,7 +12,8 @@ A responsive clone of the Netflix landing page built using **HTML5** and **CSS3*
 
 Example:
 
-![Netflix Clone Screenshot](images/screenshot.png)
+![Uploading image.png…]()
+
 
 ---
 
